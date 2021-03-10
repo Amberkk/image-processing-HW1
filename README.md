@@ -1,2 +1,3 @@
 # image-processing
-## T
+## This is my image processing course homework
+
